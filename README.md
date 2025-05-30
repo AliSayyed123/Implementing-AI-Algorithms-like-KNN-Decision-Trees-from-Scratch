@@ -1,1 +1,1 @@
-# Implementing-AI-Algorithms-like-KNN-Decision-Trees-from-Scratch
+# Implementing-AI-Algorithms-from-Scratch
